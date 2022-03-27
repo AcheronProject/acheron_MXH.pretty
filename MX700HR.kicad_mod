@@ -75,7 +75,7 @@
   (pad "" np_thru_hole circle (at 3.81 -2.54) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask) (tstamp fc56a616-8433-4211-b495-35dd6c048fcf))
   (pad "1" smd roundrect (at -6.096 -5.08) (size 2.54 2.54) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1) (tstamp 5e18d5d5-045d-4e97-b14e-44c6fa6ac6af))
   (pad "2" smd roundrect (at 7.366 -2.54) (size 2.54 2.54) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1) (tstamp 6f350030-908e-4bf0-9a26-6059f1a0481c))
-  (model "${KIPRJMOD}/AcheronLibrary/3d_models/kailh_socket_mx.stp"
+  (model "${ACHERON_3D}/kailh_socket_mx.stp"
     (offset (xyz 0.6 3.8 1.85))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
